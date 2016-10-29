@@ -1,0 +1,70 @@
+Base path: C:/Program Files/Unity/Editor/Data
+Cmd: getPlatforms
+Cmd: disassembleShader
+  api=15 insize=1946 outsize=3283 ok=1
+Cmd: disassembleShader
+  api=15 insize=2302 outsize=3759 ok=1
+Cmd: disassembleShader
+  api=15 insize=2478 outsize=4040 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=986 outsize=3202 kw=DIRECTIONAL LIGHTMAP_OFF DYNAMICLIGHTMAP_OFF VERTEXLIGHT_ON _NORMALMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=15 insize=3202 outsize=4981 ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=986 outsize=3956 kw=DIRECTIONAL LIGHTMAP_OFF DYNAMICLIGHTMAP_OFF pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=12 insize=3956 outsize=7239 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=912 outsize=1966 kw=SPOT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=15 insize=1966 outsize=3305 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=912 outsize=1802 kw=DIRECTIONAL SHADOWS_SCREEN pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=15 insize=1802 outsize=3109 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=912 outsize=2038 kw=POINT SHADOWS_CUBE SHADOWS_SOFT pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=15 insize=2038 outsize=3434 ok=1
+Cmd: compileSnippet
+  api=4 type=0 insize=912 outsize=2346 kw=SPOT _NORMALMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=15 insize=2346 outsize=3792 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=912 outsize=1380 kw=POINT SHADOWS_CUBE _NORMALMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=10 insize=1380 outsize=2348 ok=1
+Cmd: compileSnippet
+  api=1 type=0 insize=912 outsize=1380 kw=POINT SHADOWS_CUBE SHADOWS_SOFT _NORMALMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=10 insize=1380 outsize=2348 ok=1
+Cmd: disassembleShader
+  api=17 insize=2842 outsize=4009 ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=912 outsize=2044 kw=DIRECTIONAL_COOKIE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=12 insize=2044 outsize=3662 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=912 outsize=2986 kw=DIRECTIONAL SHADOWS_SCREEN pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=17 insize=2986 outsize=4313 ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=912 outsize=2456 kw=POINT_COOKIE SHADOWS_CUBE pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=12 insize=2456 outsize=4360 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=912 outsize=3446 kw=POINT _NORMALMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=17 insize=3446 outsize=4943 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=912 outsize=3322 kw=DIRECTIONAL_COOKIE _NORMALMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=17 insize=3322 outsize=4819 ok=1
+Cmd: compileSnippet
+  api=1 type=1 insize=912 outsize=2644 kw=POINT SHADOWS_CUBE _NORMALMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=12 insize=2644 outsize=4654 ok=1
+Cmd: compileSnippet
+  api=4 type=1 insize=912 outsize=4254 kw=POINT_COOKIE SHADOWS_CUBE SHADOWS_SOFT _NORMALMAP pd=UNITY_ENABLE_REFLECTION_BUFFERS UNITY_PBS_USE_BRDF1 UNITY_SPECCUBE_BOX_PROJECTION UNITY_SPECCUBE_BLENDING ok=1
+Cmd: disassembleShader
+  api=17 insize=4254 outsize=6255 ok=1
